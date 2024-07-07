@@ -1,4 +1,4 @@
-# RotateObjectSupportAR For Unity
+# RotateZoomObjectSupportAR For Unity
  
 # Feature:
 - Zoom
